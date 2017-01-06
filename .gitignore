@@ -1,0 +1,6 @@
+Library
+*.csproj
+Builds
+desktop.ini.meta
+magic_rush.sln
+magic_rush.userprefs
